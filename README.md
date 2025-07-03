@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mahdi!
 
-<!--
-**mahdibkr-sudo/mahdibkr-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 Computer Engineering student  
+💻 Basic knowledge of Java and Object-Oriented Programming  
+🌐 Familiar with HTML, CSS, and beginner-level JavaScript  
+🛠️ Comfortable using Git for version control  
+📚 Currently learning intermediate Java and web-related JavaScript skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+🎓 دانشجوی مهندسی کامپیوتر  
+☕ آشنایی مقدماتی با جاوا و برنامه‌نویسی شی‌گرا  
+🧑‍💻 مسلط به HTML و CSS  
+🌀 آشنایی مقدماتی با JavaScript  
+📁 مسلط به Git  
+📖 در حال یادگیری جاوای سطح متوسط و مهارت‌های JavaScript مرتبط با وب
