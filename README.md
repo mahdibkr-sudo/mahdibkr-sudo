@@ -42,8 +42,9 @@ I'm **Mahdi**, a computer engineering student who loves building clean, simple, 
 ## 📊 GitHub Stats
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mahdi-bkr&show_icons=true&theme=react&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=mahdi-bkr&theme=react&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mahdibkr-sudo&show_icons=true&theme=react&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=mahdibkr-sudo&theme=react&hide_border=true)
+
 
 </div>
 
