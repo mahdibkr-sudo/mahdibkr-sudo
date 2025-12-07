@@ -42,9 +42,9 @@ I'm **Mahdi**, a computer engineering student who loves building clean, simple, 
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahdibkr-sudo&show_icons=true&theme=radical" alt="Mahdi's GitHub stats"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahdibkr-sudo&show_icons=true&theme=radical" />
 
-<img src="https://streak-stats.demolab.com?user=mahdibkr-sudo&theme=react&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mahdibkr-sudo&theme=react&hide_border=true" />
 
 </div>
 
